@@ -1,6 +1,6 @@
 diginetica-test task
 
-ссылка на gh-pages: https://BatradzSanakoev.github.io/diginetica-test
+ссылка на gh-pages: https://batradzsanakoev.github.io/diginetica-test/
 
 Технологический стек: JavaScript, ReactJS, CSS, Material-UI.
 
