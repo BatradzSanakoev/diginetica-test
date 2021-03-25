@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/diginetica-test/static/css/main.659de21a.chunk.css",
+    "main.js": "/diginetica-test/static/js/main.3f4bec94.chunk.js",
+    "main.js.map": "/diginetica-test/static/js/main.3f4bec94.chunk.js.map",
+    "runtime-main.js": "/diginetica-test/static/js/runtime-main.d744e00e.js",
+    "runtime-main.js.map": "/diginetica-test/static/js/runtime-main.d744e00e.js.map",
+    "static/js/2.d8747bd6.chunk.js": "/diginetica-test/static/js/2.d8747bd6.chunk.js",
+    "static/js/2.d8747bd6.chunk.js.map": "/diginetica-test/static/js/2.d8747bd6.chunk.js.map",
+    "index.html": "/diginetica-test/index.html",
+    "static/css/main.659de21a.chunk.css.map": "/diginetica-test/static/css/main.659de21a.chunk.css.map",
+    "static/js/2.d8747bd6.chunk.js.LICENSE.txt": "/diginetica-test/static/js/2.d8747bd6.chunk.js.LICENSE.txt",
+    "static/media/categorie.2fc436bd.jpg": "/diginetica-test/static/media/categorie.2fc436bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d744e00e.js",
+    "static/js/2.d8747bd6.chunk.js",
+    "static/css/main.659de21a.chunk.css",
+    "static/js/main.3f4bec94.chunk.js"
+  ]
+}
