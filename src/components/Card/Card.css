@@ -1,0 +1,81 @@
+.card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.card__pic {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.card__text {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 130%;
+    letter-spacing: 0.01em;
+    font-weight: bold;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.card__price-block {
+    margin-top: 18px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.card__price {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.card__span {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    color: #A9A9A9;
+    margin-left: 15px;
+}
+
+.card__button {
+    margin-top: 15px;
+    border: none;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    background-color: #f1bd45;
+    border-radius: 3px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    transition: all .3s ease;
+}
+
+.card__button:hover {
+    cursor: pointer;
+    opacity: .8;
+    transition: all .3s ease;
+}
+
+.card__button:active {
+    cursor: pointer;
+    background-color: #dedede;
+    transition: all .3s ease;
+}

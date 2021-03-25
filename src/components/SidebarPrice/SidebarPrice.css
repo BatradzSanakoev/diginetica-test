@@ -1,0 +1,27 @@
+.sidebar__price {
+    width: 100%;
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar__price-values {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.sidebar__price-value {
+    width: 110px;
+    height: 40px;
+    border: 1px solid #dedede;
+    box-sizing: border-box;
+    padding: 12px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    border-radius: 3px;
+}

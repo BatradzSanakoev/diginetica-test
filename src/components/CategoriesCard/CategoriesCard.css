@@ -1,0 +1,43 @@
+.categories-card {
+    width: 240px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding-right: 20px;
+    border-right: 1px solid #c4c4c4;    
+}
+
+.categories-card:last-of-type {
+    border-right: none;
+}
+
+.categories-card__pic {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.categories-card__info {
+    
+}
+
+.categories-card__name {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.categories-card__number {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #8b8b8b;
+    margin-top: 9px;
+}

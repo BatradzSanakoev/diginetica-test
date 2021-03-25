@@ -1,0 +1,38 @@
+.categories {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.categories__info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.categories__header {
+    font-size: 28px;
+    line-height: 32px;
+}
+
+.categories__text {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 19px;
+    color: #8b8b8b;
+    margin-left: 40px;
+}
+
+.categories__cards {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}

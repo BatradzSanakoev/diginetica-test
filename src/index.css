@@ -1,13 +1,14 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./vendor/normalize.css);
+@import url(./components/App/App.css);
+@import url(./components/Header/Header.css);
+@import url(./components/Main/Main.css);
+@import url(./components/SearchForm/SearchForm.css);
+@import url(./components/Categories/Categories.css);
+@import url(./components/CategoriesCard/CategoriesCard.css);
+@import url(./components/Content/Content.css);
+@import url(./components/Sidebar/Sidebar.css);
+@import url(./components/SidebarCategories/SidebarCategories.css);
+@import url(./components/SidebarPrice/SidebarPrice.css);
+@import url(./components/SidebarBrands/SidebarBrands.css);
+@import url(./components/Cards/Cards.css);
+@import url(./components/Card/Card.css);

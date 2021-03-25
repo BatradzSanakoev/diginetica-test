@@ -1,0 +1,29 @@
+.sidebar__categories {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.sidebar__header {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.sidebar__link {
+    margin-top: 10px;
+    color: #5375b7;
+    text-decoration: none;
+    transition: all .3s ease;
+}
+
+.sidebar__link:hover {
+    opacity: .7;
+    transition: all .3s ease;
+}
+
+.sidebar__link:active {
+    color: #0b3485;
+    transition: all .3s ease;
+}

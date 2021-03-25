@@ -1,0 +1,40 @@
+.sidebar__brands {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.sidebar__brands-headrow {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sidebar__brands-reset {
+    font-size: 10px;
+    line-height: 11px;
+    text-decoration-line: underline;
+    color: #8b8b8b;
+    transition: all .3s ease;
+}
+
+.sidebar__brands-reset:hover {
+    cursor: pointer;
+    opacity: .8;
+    transition: all .3s ease;
+}
+
+.sidebar__checkbox {
+    margin: 15px 8px 0 0;
+}
+
+.sidebar__checkbox:hover {
+    cursor: pointer;
+}
+
+.sidebar__label {
+    font-size: 14px;
+    line-height: 16px;
+}
